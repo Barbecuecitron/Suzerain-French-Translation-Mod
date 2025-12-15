@@ -14,7 +14,7 @@ Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de 
 
 1. Cliquez sur le bouton vert **"Code"** en haut de cette page.
 2. Sélectionnez **"Download ZIP"**
-3. Dézippez le fichier dans un dossier de votre choix
+3. Dézippez le .zip dans un dossier de votre choix
 
 <img src="media/readme/download_files.gif" width="30%" alt="download">
 
