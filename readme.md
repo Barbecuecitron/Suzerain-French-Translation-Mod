@@ -2,14 +2,9 @@
 
 ## 📋 À propos de cette traduction
 
-Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de Molière. La traduction est globalement solide et restitue fidèlement la grande majorité des dialogues, interactions et ambiances du jeu.
+Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de Molière. La traduction est globalement très solide et restitue fidèlement la grande majorité des dialogues, interactions et ambiances du jeu.
 
-### ⚠️ Points à noter
-- Vous pourrez rencontrer quelques coquilles (ex: "La Sordie" au lieu de "Sordland" dans quelques lignes de dialogue).
-- Ces petites erreurs n'affectent pas la compréhension générale du jeu
-- Afin de respecter au mieux le ton original, quelques rares libertés d'adaptation ont été prises par votre fidèle serviteur. Par exemple, "Maroon Palace" devient ici "Palais Carmin", plus préstigieux et sérieux en Français que "Le Palais Marron", pour des raisons évidentes.
-- Aucune maintenance / compatibilité sur les versions futre n'est prévue
----
+
 
 ## 📥 Téléchargement
 
@@ -19,7 +14,7 @@ Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de 
 
 <img src="media/readme/download_files.gif" width="30%" alt="download">
 
----
+
 
 ## 🛠️ Installation
 
@@ -61,10 +56,15 @@ Lors du tout premier lancement :
 - **C'est normal** si la fenêtre Suzerain ne répond pas temporairement
 - Soyez patient, le processus se terminera automatiquement
 
+
 ---
+### ⚠️ Points à noter
+- Afin de respecter au mieux le ton original, quelques rares libertés d'adaptation ont été prises par votre fidèle serviteur. Par exemple, "Maroon Palace" devient ici "Palais Carmin", plus préstigieux et sérieux en Français que "Le Palais Marron", pour des raisons évidentes.
+- Vous pourrez rencontrer quelques coquilles (ex: "La Sordie" au lieu de "Sordland" dans une poignée de lignes de dialogue).
+- Ces petites erreurs n'affectent pas la compréhension générale du jeu
 
 ## 🎯 Compatibilité
 
-La compatibilité avec les futures mises à jour de Suzerain dépend entièrement des modifications que l'éditeur Torpor Games apportera à la structure des données du jeu.
+La compatibilité avec les futures mises à jour de Suzerain dépend entièrement des modifications que l'éditeur Torpor Games apportera à la structure des données du jeu. Je n'ai pas prévu de mettre à jour, ni d'assurer une quelconque comptabilité avec les futures versions.
 
 **Amusez-vous bien !**
