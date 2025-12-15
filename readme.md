@@ -18,10 +18,10 @@ Certains d'entre-vous auront probablement du mal à localiser le bouton de tél�
 Dézippez le tout dans un dossier, et suivez le reste du tutoriel.
 
 
-## Étape 1 : Installation de MelonLoader
+## Étape 1 : Installation de MelonLoader dans le dossier Suzerain
 
 1. **Lancez** `MelonLoader.Installer.exe`
-2. **Sélectionnez** le dossier d'installation (dans notre cas, le répertoire de Suzerain).
+2. **Sélectionnez** le dossier d'installation depuis le menu MelonLoader(dans notre cas, le répertoire de Suzerain).
 (Si vous avez déjà installé une version de MelonLoader pour Suzerain, désinstallez-la.)
 3. **Cochez** "Enable Nightly builds"
 4. **Choisissez** la version `0.7.2-ci.2367`
@@ -41,5 +41,6 @@ Dézippez le tout dans un dossier, et suivez le reste du tutoriel.
 4. **Lancez** le jeu, et n'hésitez surtout pas à passer un bon moment ! 🎮
 
 ## Notes
-- Je mets à disposition cette (imparfaite mais solide) version Française en l'état pour que vous puissiez expérimenter le jeu en Français. 
 Aucune maintenance future n'est garantie et la compatibilité avec les versions à venir dépend entièrement de la façon dont Torpor revisite ou non ses schémas de données.
+
+Délicieuse session à vous !
