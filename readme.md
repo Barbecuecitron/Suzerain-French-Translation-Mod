@@ -1,7 +1,7 @@
 # Jouer à Suzerain en Français, c'est possible !
 
 Chers amis,
-Je mets à votre disposition ce patch Français de Suzerain. Il vient avec un utilitaire qui permet d'installer / désinstaller la traduction en quelques clics afin de vous éviter de nombreux maux de tête.
+je mets à votre disposition ce patch Français de Suzerain. Il vient avec un utilitaire qui permet d'installer / désinstaller la traduction en quelques clics afin de vous éviter de nombreux maux de tête.
 
 
 Si la traduction n'est pas parfaite, elle peut tout de même se vanter d'être solide, et permet de restituer avec une redoutable fidélité l'extrême majorité des dialogues / intéractions et ambiances. Il vous faudra parfois faire de petits efforts d'ajustements à la lecture (vous trouverez par exemple "La Sordie" au lieu de "Sordland" dans quelques lignes de dialogue et autres coquilles de ce genre) afin de passer outre les petits ratés qu'un tel volume de traduction implique forcément.
@@ -39,9 +39,10 @@ Dézippez le tout dans un dossier, et suivez le reste du tutoriel.
 
 3. **Cliquez** sur "INSTALLER"
 
-La toute première fois que vous lancerez le jeu, MelonLoader devra terminer son installation. Il mettra en pause le démarrage du jeu durant quelques secondes / minutes le temps de terminer son installation. Pas de panique si la fenêtre Suzerain répond donc pas, c'est tout à fait normal et devrait prendre de quelques secondes à deux minutes.
-
 4. **Lancez** le jeu, et n'hésitez surtout pas à passer un bon moment ! 🎮
+
+La toute première fois que vous lancerez le jeu, MelonLoader devra terminer son installation. Il mettra en pause le démarrage du jeu durant quelques secondes / minutes durant cette phase. Pas de panique si la fenêtre Suzerain ne répond donc pas: c'est tout à fait normal.
+
 
 ## Notes
 Aucune maintenance future n'est garantie et la compatibilité avec les versions à venir dépend entièrement de la façon dont Torpor revisite ou non ses schémas de données.
