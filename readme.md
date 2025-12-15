@@ -1,50 +1,70 @@
-# Jouer à Suzerain en Français, c'est possible !
+# Guide d'Installation - Patch Français pour Suzerain
 
-Chers amis,
-je mets à votre disposition ce patch Français de Suzerain. Il vient avec un utilitaire qui permet d'installer / désinstaller la traduction en quelques clics afin de vous éviter de nombreux maux de tête.
+## 📋 À propos de cette traduction
 
+Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de Molière. La traduction est globalement solide et restitue fidèlement la grande majorité des dialogues, interactions et ambiances du jeu.
 
-Si la traduction n'est pas parfaite, elle peut tout de même se vanter d'être solide, et permet de restituer avec une redoutable fidélité l'extrême majorité des dialogues / intéractions et ambiances. Il vous faudra parfois faire de petits efforts d'ajustements à la lecture (vous trouverez par exemple "La Sordie" au lieu de "Sordland" dans quelques lignes de dialogue et autres coquilles de ce genre) afin de passer outre les petits ratés qu'un tel volume de traduction implique forcément.
+### ⚠️ Points à noter
+- Vous pourrez rencontrer quelques coquilles (ex: "La Sordie" au lieu de "Sordland" dans quelques lignes de dialogue).
+- Ces petites erreurs n'affectent pas la compréhension générale du jeu
+- Afin de respecter au mieux le ton original, quelques rares libertés d'adaptation ont été prises par votre fidèle serviteur. Par exemple, "Maroon Palace" devient ici "Palais Carmin", plus préstigieux et sérieux en Français que "Le Palais Marron", pour des raisons évidentes.
+- Aucune maintenance / compatibilité sur les versions futre n'est prévue
+---
 
-Les quelques erreurs présentes ne devraient pas vraiment vous dérouter, ni amputer quelque information que ce soit.
+## 📥 Téléchargement
 
+1. Cliquez sur le bouton vert **"Code"** en haut de cette page.
+2. Sélectionnez **"Download ZIP"**
+3. Dézippez le fichier dans un dossier de votre choix
 
+<img src="media/readme/download_files.gif" width="30%" alt="download">
 
+---
 
-### Comment télécharger le mod ?
-Certains d'entre-vous auront probablement du mal à localiser le bouton de téléchargement (classique sur Github), c'est le bouton vert "Code" puis "Download ZIP" en haut à droite de cette page !
+## 🛠️ Installation
 
-<img src="media/readme/download_files.gif" width="40%" alt="download">
-
-Dézippez le tout dans un dossier, et suivez le reste du tutoriel.
-
-
-## Étape 1 : Installation de MelonLoader dans le dossier Suzerain
+### Étape 1 : Installation de MelonLoader
 
 1. **Lancez** `MelonLoader.Installer.exe`
-(Si vous avez déjà installé une version de MelonLoader pour Suzerain, désinstallez-la.)
-2. **Sélectionnez** Suzerain depuis le menu MelonLoader
-3. **Cochez** "Enable Nightly builds"
+   > ⚠️ Si vous avez déjà une version de MelonLoader pour Suzerain, désinstallez-la d'abord
+
+2. **Sélectionnez** Suzerain dans le menu MelonLoader
+
+3. **Cochez** la case "Enable Nightly builds"
+
 4. **Choisissez** la version `0.7.2-ci.2367`
+
 5. **Cliquez** sur "Install"
 
-<img src="media/readme/demo.gif" width="33%" alt="demo">
+<img src="media/readme/demo.gif" width="25%" alt="demo">
 
-## Étape 2 : Installation du Mod
+### Étape 2 : Installation du patch de traduction
 
-1. **Lancez** l'installateur de traduction `SuzerainTranslationInstaller.exe`
-   > *Un petit menu pas très beau mais fort pratique s'ouvrira sous vos yeux*
+1. **Lancez** `SuzerainTranslationInstaller.exe`
+   > Un menu simple mais efficace s'ouvrira
 
-2. **`Le Chemin vers Suzerain`** devrait être détecté automatiquement, sinon localisez le jeu dans vos dossiers Steam\steamapps\common\Suzerain\Suzerain.exe
+2. **Vérifiez le chemin** vers Suzerain
+   - Il devrait être détecté automatiquement
+   - Sinon, localisez manuellement : `Steam\steamapps\common\Suzerain\Suzerain.exe`
 
 3. **Cliquez** sur "INSTALLER"
 
-4. **Lancez** le jeu, et n'hésitez surtout pas à passer un bon moment ! 🎮
+**C'est terminé !** Lancez le jeu et n'hésitez surtout pas à passer un bon moment ! 🎮
 
-La toute première fois que vous lancerez le jeu, MelonLoader devra terminer son installation. Il mettra en pause le démarrage du jeu durant quelques secondes / minutes durant cette phase. Pas de panique si la fenêtre Suzerain ne répond donc pas: c'est tout à fait normal.
+---
 
+## ⏳ Premier lancement
 
-## Notes
-Aucune maintenance future n'est garantie et la compatibilité avec les versions à venir dépend entièrement de la façon dont Torpor revisite ou non ses schémas de données.
+Lors du tout premier lancement :
+- MelonLoader finalisera automatiquement son installation
+- Le jeu restera en freeze / pause pendant quelques secondes à quelques minutes
+- **C'est normal** si la fenêtre Suzerain ne répond pas temporairement
+- Soyez patient, le processus se terminera automatiquement
 
-Délicieuse session à vous !
+---
+
+## 🎯 Compatibilité
+
+La compatibilité avec les futures mises à jour de Suzerain dépend entièrement des modifications que l'éditeur Torpor Games apportera à la structure des données du jeu.
+
+**Amusez-vous bien !**
