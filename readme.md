@@ -39,6 +39,8 @@ Dézippez le tout dans un dossier, et suivez le reste du tutoriel.
 
 3. **Cliquez** sur "INSTALLER"
 
+La toute première fois que vous lancerez le jeu, MelonLoader devra terminer son installation. Il mettra en pause le démarrage du jeu durant quelques secondes / minutes le temps de terminer son installation. Pas de panique si la fenêtre Suzerain répond donc pas, c'est tout à fait normal et devrait prendre de quelques secondes à deux minutes.
+
 4. **Lancez** le jeu, et n'hésitez surtout pas à passer un bon moment ! 🎮
 
 ## Notes
