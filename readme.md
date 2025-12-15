@@ -1,5 +1,9 @@
 # Jouer à Suzerain en Français, en quelques clics
 
+Chers tous,
+Je mets à votre disposition cette version Française de Suzerain entièrement concoctée par mes soins. Elle inclut un installateur pour que vous puissiez éviter de vous faire chier à installer des fichiers à la main -comme c'est trop souvent le cas avec des projets de cette envergure-. La traduction n'est pas absolument parfaite mais a le mérite d'être suffisament bonne pour vous permettre de profiter du jeu, en restituant avec fidélité l'extrême majorité des dialogues / intéractions / ambiances. Il faudra parfois faire de petits efforts d'ajustements à la lecture (vous trouverez par exemple "Sordie" au lieu de "Sordland" dans quelques lignes de dialogue et autres coquilles de ce genre) mais les erreurs ne sont globalement pas plus méchantes que ça et ne devraient ni vous dérouter, ni amputer quelque information que ce soit.
+
+
 ## Prérequis
 Si vous avez déjà installé une version de MelonLoader pour Suzerain, **désinstallez-la**.
 Sinon, ignorez et passez à l'étape 1. Les autres mods ne devraient pas intérférer avec l'installation de la version Française.
@@ -24,4 +28,5 @@ Sinon, ignorez et passez à l'étape 1. Les autres mods ne devraient pas intérf
 
 ## Notes
 - Si vous rencontrez des problèmes, vérifiez que vous avez bien suivi toutes les étapes
-- Je mets à disposition cette (imparfaite) version Française en l'état pour que vous puissiez expérimenter le jeu en Français. Aucune maintenance future n'est garantie et la compatibilité avec les versions à venir dépend entièrement de la façon dont Torpor revisite ou non ses schémas de données.
+- Je mets à disposition cette (imparfaite) version Française en l'état pour que vous puissiez expérimenter le jeu en Français. 
+Aucune maintenance future n'est garantie et la compatibilité avec les versions à venir dépend entièrement de la façon dont Torpor revisite ou non ses schémas de données.
