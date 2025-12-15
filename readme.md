@@ -1,4 +1,4 @@
-# Installation du Mod de Traduction Suzerain en quelques clics
+# Jouer à Suzerain en Français, en quelques clics
 
 ## Prérequis
 Si vous avez déjà installé une version de MelonLoader pour Suzerain, **désinstallez-la**.
@@ -15,7 +15,7 @@ Sinon, ignorez et passez à l'étape 1. Les autres mods ne devraient pas intérf
 
 ## Étape 2 : Installation du Mod
 
-1. **Lancez** l'installateur de traduction `.exe`
+1. **Lancez** l'installateur de traduction `SuzerainTranslationInstaller.exe`
    > *Un petit menu pas très beau mais fort pratique s'ouvrira sous vos yeux*
 
 2. **`Le Chemin vers Suzerain`** devrait être détecté automatiquement, sinon allez le sélectionner dans vos dossiers Steam\steamapps\common\Suzerain\Suzerain.exe
