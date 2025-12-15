@@ -22,8 +22,8 @@ Dézippez le tout dans un dossier, et suivez le reste du tutoriel.
 ## Étape 1 : Installation de MelonLoader dans le dossier Suzerain
 
 1. **Lancez** `MelonLoader.Installer.exe`
-2. **Sélectionnez** le dossier d'installation depuis le menu MelonLoader(dans notre cas, le répertoire de Suzerain).
 (Si vous avez déjà installé une version de MelonLoader pour Suzerain, désinstallez-la.)
+2. **Sélectionnez** Suzerain depuis le menu MelonLoader
 3. **Cochez** "Enable Nightly builds"
 4. **Choisissez** la version `0.7.2-ci.2367`
 5. **Cliquez** sur "Install"
