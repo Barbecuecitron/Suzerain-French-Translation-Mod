@@ -1,9 +1,10 @@
-# Jouer à Suzerain en Français, en quelques clics
+# Jouer à Suzerain en Français, c'est possible !
 
 Chers amis,
-Je mets à votre disposition cette version Française de Suzerain concoctée par mes soins. Elle vient avec un utilitaire qui permet d'installer / désinstaller la traduction afin que vous évitiez de vous faire chier.
+Je mets à votre disposition ce patch Français de Suzerain. Il vient avec un utilitaire qui permet d'installer / désinstaller la traduction en quelques clics afin de vous éviter de nombreux maux de tête.
 
-Si traduction n'est pas parfaite, elle peut tout de même se vanter d'être solide, et permet de restituer avec une redoutable fidélité l'extrême majorité des dialogues / intéractions / ambiances. Il vous faudra parfois faire de petits efforts d'ajustements à la lecture (vous trouverez par exemple "La Sordie" au lieu de "Sordland" dans quelques lignes de dialogue et autres coquilles de ce genre) afin de passer outre les petits ratés qu'un tel volume de traduction implique forcément.
+
+Si la traduction n'est pas parfaite, elle peut tout de même se vanter d'être solide, et permet de restituer avec une redoutable fidélité l'extrême majorité des dialogues / intéractions et ambiances. Il vous faudra parfois faire de petits efforts d'ajustements à la lecture (vous trouverez par exemple "La Sordie" au lieu de "Sordland" dans quelques lignes de dialogue et autres coquilles de ce genre) afin de passer outre les petits ratés qu'un tel volume de traduction implique forcément.
 
 Les quelques erreurs présentes ne devraient pas vraiment vous dérouter, ni amputer quelque information que ce soit.
 
