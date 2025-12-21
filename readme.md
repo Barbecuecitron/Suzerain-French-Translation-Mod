@@ -5,10 +5,10 @@
 Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de Molière. La traduction est globalement très solide et restitue fidèlement la grande majorité des dialogues, interactions et ambiances du jeu.
 
 ### Points à noter
+
 - Afin de respecter au mieux le ton original, quelques rares libertés d'adaptation ont été prises par votre fidèle serviteur. Par exemple, "Maroon Palace" devient ici "Palais Carmin", plus préstigieux et sérieux en Français que "Le Palais Marron", pour des raisons évidentes.
 - Vous pourrez rencontrer quelques coquilles (ex: "La Sordie" au lieu de "Sordland" dans une poignée de lignes de dialogue).
 - Ces petites erreurs n'affectent pas la compréhension générale du jeu
-
 
 ## 📥 Téléchargement
 
@@ -18,21 +18,17 @@ Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de 
 
 <img src="media/readme/download_files.gif" width="30%" alt="download">
 
-
-
 ## 🛠️ Installation
 
 ### Étape 1 : Installation de MelonLoader
 
 1. **Lancez** `MelonLoader.Installer.exe`
+
    > Si vous avez déjà une version de MelonLoader pour Suzerain, désinstallez-la d'abord
-
+   >
 2. **Sélectionnez** Suzerain dans le menu MelonLoader
-
 3. **Cochez** la case "Enable Nightly builds"
-
-4. **Choisissez** la version `0.7.2-ci.2367`
-
+4. **Choisissez** une version récente ( `0.7.2-ci.23XX` minimum )
 5. **Cliquez** sur "Install"
 
 <img src="media/readme/demo.gif" width="25%" alt="demo">
@@ -40,12 +36,13 @@ Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de 
 ### Étape 2 : Installation du patch de traduction
 
 1. **Lancez** `SuzerainTranslationInstaller.exe`
-   > Un menu simple mais efficace s'ouvrira
 
+   > Un menu simple mais efficace s'ouvrira
+   >
 2. **Vérifiez le chemin** vers Suzerain
+
    - Il devrait être détecté automatiquement
    - Sinon, localisez manuellement : `Steam\steamapps\common\Suzerain\Suzerain.exe`
-
 3. **Cliquez** sur "INSTALLER"
 
 **C'est terminé !** Lancez le jeu et n'hésitez surtout pas à passer un bon moment ! 🎮
@@ -55,6 +52,7 @@ Ce patch Français de Suzerain vous permet de profiter du jeu dans la langue de 
 ## ⏳ Premier lancement
 
 Lors du tout premier lancement :
+
 - MelonLoader finalisera automatiquement son installation
 - Le jeu restera en freeze / pause pendant quelques secondes à quelques minutes
 - **C'est normal** si la fenêtre Suzerain ne répond pas temporairement
